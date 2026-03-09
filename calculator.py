@@ -14,7 +14,7 @@ class Calculator:
     def divide(self, a, b):
         return a / b
 
-    # TODO: Implement square root
+   # Implement square root
     def square_root(self, x):
         return math.sqrt(x)
 
