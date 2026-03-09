@@ -16,6 +16,7 @@ class Calculator:
             raise ValueError("Cannot divide by zero.")
         return a / b
 
+   # Implement square root
     def square_root(self, x):
         if x < 0:
             raise ValueError("Cannot take the square root of a negative number.")
