@@ -1,0 +1,33 @@
+HeroVired Git Assignment Submission
+
+Name: Mohd Shahban
+Batch: Batch 16
+Assignment: Git and GitHub Workflow Assignment
+
+GitHub Repository Link:
+https://github.com/sahbu90/git_assignment_HeroVired
+
+Branches Implemented:
+1. main
+2. dev
+3. feature/sqrt
+4. lfs
+5. geometry-calculator
+6. feature/circle-area
+7. feature/rectangle-area
+
+Features Implemented:
+- CalculatorPlus application
+- Square root feature
+- Bug fix in divide function
+- Git LFS integration for large files (>200MB)
+- Geometry calculator using Git Stash workflow
+
+Pull Requests:
+- feature/sqrt → dev
+- feature/circle-area → dev
+- feature/rectangle-area → dev
+
+Releases Created:
+- Version 1 (v1.0)
+- Version 2 (v2.0)
